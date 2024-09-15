@@ -1,0 +1,30 @@
+Relate_Code,Description,Subscriber,Spouse,HIPAA_Code,Entry_Date,Entry_User,Update_Date,Update_User
+01,Insured,1,0,18,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+02,Spouse,0,1,01,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+19,Child,0,0,19,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+03,Father or Mother,0,0,03,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+04,Grandfather or Grandmother,0,0,04,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+05,Grandson or Granddaughter,0,0,05,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+06,Uncle or Aunt,0,0,06,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+07,Nephew or Niece,0,0,07,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+08,Cousin,0,0,08,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+09,Adopted Child,0,0,09,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+10,Foster Child,0,0,10,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+11,Son-in-law or Daughter-in-law,0,0,11,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+12,Brother-in-law or Sister-in-la,0,0,12,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+13,Mother-in-law or Father-in-law,0,0,13,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+14,Borther or Sister,0,0,14,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+15,Ward,0,0,15,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+16,Stepparent,0,0,16,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+17,Stepson or Stepdaughter,0,0,17,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+18,Sponsored Dependent (19-25),0,0,23,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+20,Dependent of a Minor Dependent,0,0,24,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+21,Ex-Spouse,0,0,25,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+22,Guardian,0,0,26,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+23,Court Appointed Guardian,0,0,31,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+24,Collateral Dependent,0,0,38,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+25,Life Partner,0,1,53,"2013-03-13 16:56:48",Initial Data Load,"2015-07-09 18:19:57",vbadmin
+26,Annuitant,0,0,60,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+27,Trustee,0,0,D2,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+28,Other Relationship,0,0,G8,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
+29,Other Relative,0,0,G9,"2013-03-13 16:56:48",Initial Data Load,"2013-03-13 16:56:48",Keylink\rcastro
