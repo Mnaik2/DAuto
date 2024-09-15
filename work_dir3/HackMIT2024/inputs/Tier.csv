@@ -1,0 +1,8 @@
+Tier,Description,Max_Members,Spouse_Only,Multimember_Tier,Insured,Spouse,Dependent,HIPAA_Code,Entry_Date,Entry_User,Update_Date,Update_User
+I,Individual,,,False,True,False,False,EMP,"2015-06-01 14:19:13",admin,"2015-06-01 14:19:13",admin
+P,Employee/Child,99,,True,True,False,True,E1D,"2015-06-01 14:19:36",admin,"2016-03-18 12:30:03",kr08526
+H,Employee/Spouse,99,,True,True,True,False,ESP,"2015-06-01 14:19:56",admin,"2016-03-18 12:30:15",kr08526
+F,Family,99,,True,True,True,True,FAM,"2015-06-01 14:20:04",admin,"2015-06-01 14:20:04",admin
+EM,Employee/Multiple,99,,True,True,False,True,E6D,"2015-10-14 12:32:19",kr08526,"2015-10-14 12:32:19",kr08526
+EC,Employee/Children,99,,True,True,False,True,ECH,"2015-11-19 18:53:09",kr08526,"2015-11-19 18:53:09",kr08526
+E1,Employee + 1,99,,True,True,True,True,TWO,"2016-03-04 11:17:44",gtenney,"2018-09-04 17:49:10",kr08526
